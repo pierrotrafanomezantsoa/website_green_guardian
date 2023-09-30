@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', {origin: 'right'});
 
 /*==================== typed js ====================*/ 
 const typed = new Typed('.multiple-text', {
-    strings: ['Python Developer', 'Etudiant en Chimie', 'Spécialiste IA'],
+    strings: ['Frontend Developer', 'Etudiant en Electronique', 'Backend Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
@@ -61,14 +61,14 @@ const typed = new Typed('.multiple-text', {
 });
 
 const typed2 = new Typed('.multiple-text2', {
-    strings: ['Frontend Developer', 'Electronics Engineer', 'Backend Developer'],
+    strings: ['Frontend Developer', 'Etudiant en Electronique', 'Backend Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
     loop: true
 });
 const typed3 = new Typed('.multiple-text3', {
-    strings: ['Frontend Developer', 'Electronics Engineer', 'Backend Developer'],
+    strings: ['Python Developer', 'Etudiant en Chimie', 'Spécialiste IA'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
