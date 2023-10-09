@@ -61,7 +61,7 @@ const typed = new Typed('.multiple-text', {
 });
 
 const typed2 = new Typed('.multiple-text2', {
-    strings: ['Frontend Developer', 'Etudiant en Electronique', 'Backend Developer'],
+    strings: ['Frontend Developer', 'Electronics Engineer', 'Backend Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
@@ -75,14 +75,14 @@ const typed3 = new Typed('.multiple-text3', {
     loop: true
 });
 const typed4 = new Typed('.multiple-text4', {
-    strings: ['Backend Developer', 'Mecanichs Engineer', 'Graphist Design'],
+    strings: [ 'Etudiant en Electronique', 'Backend Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
     loop: true
 });
 const typed5 = new Typed('.multiple-text1', {
-    strings: ['Python Developer', 'Chimist Engineer', 'Backend Developer'],
+    strings: ['Etudiant en Agronomie'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000, 
